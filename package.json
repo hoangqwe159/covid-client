@@ -21,7 +21,7 @@
     "tinygradient": "^1.1.2"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node index.js",
     "server": "cd ../server && npm start",
     "build": "react-scripts build",
     "test": "react-scripts test",
